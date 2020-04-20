@@ -1,0 +1,7 @@
+DEPENDENCIES
+  it-job-watch-cookbook-environment
+    git: git@github.com:CamileM/it-job-watch-cookbook-environment.git
+    revision: 8e62c710fd71d7eab90f853520f82374647a4681
+
+GRAPH
+  it-job-watch-cookbook-environment (0.1.0)
